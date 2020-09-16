@@ -45,7 +45,7 @@ github "hamcrest/OCHamcrest" == 7.1.2
 
 github "erikdoe/ocmock" == 3.4.3
 
-github "Quick/Quick"   == 2.2.0
+github "Quick/Quick"   == 3.0.0
 
 ##====Swift =====##
 
@@ -70,6 +70,6 @@ github "realm/realm-cocoa" == 5.4.0
 #17
 github "ReactiveCocoa/ReactiveSwift" == 6.3.0
 
-github "3a4oT/Eureka" "static-5.2.1"
+github "xmartlabs/Eureka" == 5.3.0
 
 github "kishikawakatsumi/KeychainAccess" == 3.2.1
