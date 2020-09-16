@@ -5,3 +5,5 @@
 xcuserdata/
 
 Carthage/
+Cartfile.resolved
+/*.zip
