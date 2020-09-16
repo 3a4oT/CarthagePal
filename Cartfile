@@ -5,7 +5,7 @@
 github "3a4oT/AFNetworking" "static-4.0.1"
 
 #2 Require exactly version
-github "3a4oT/Mantle" "static-2-1-1"
+github "Mantle/Mantle" "master"
 
 #3 Require exactly version
 github "3a4oT/Texture" "ASIGListKit-Master-releases/p8.22"
