@@ -65,7 +65,7 @@ github "ReactiveX/RxSwift" == 5.1.1
 github "3a4oT/Reachability.swift" "static-5.0.0"
 
 #16 Require exactly version
-github "realm/realm-cocoa" == 5.4.0
+github "realm/realm-cocoa" == 5.4.2
 
 #17
 github "ReactiveCocoa/ReactiveSwift" == 6.3.0
