@@ -16,6 +16,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
+
+      - name: Update Carthage
+        run: brew update && brew upgrade carthage
+
       - name: Build artifacts
         run: ./build.sh
           
