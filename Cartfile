@@ -1,16 +1,75 @@
 
 ##====Objective-C =====#
 
+#1 Require exactly version
+github "3a4oT/AFNetworking" "static-4.0.1"
+
+#2 Require exactly version
+github "3a4oT/Mantle" "static-2-1-2"
+
+#3 Require exactly version
+github "3a4oT/Texture" "ASIGListKit-Master-releases/p8.22"
+
+# IGListKit
+github "Instagram/IGListKit" "c321831b8025099967607cab3ffce42ac0e4283b"
+
+#4 Require exactly version
+github "3a4oT/ReactiveObjC" "static-3.1.1"
+
+#5 Require exactly version
+github "core-plot/core-plot" "release-2.3"
+
+#6 Require exactly version
+github "skywinder/ActionSheetPicker-3.0" == 2.6.0
+
+#7
+github "xmartlabs/XLForm"  == 4.1.0
+
+#8
 ## Firebase 
 
 binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseAnalyticsBinary.json"
 binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseCrashlyticsBinary.json"
 
-github "hamcrest/OCHamcrest" ~> 7.1.2
+#9
+github "3a4oT/TLIndexPathTools" == 0.4.6
 
-github "erikdoe/ocmock" ~> 3.7.1
+#10
+github "3a4oT/DateToolsObjC" == 1.0.6
 
+##===Testing======##
+
+github "specta/expecta" == 1.0.6
+
+github "hamcrest/OCHamcrest" == 7.1.2
+
+github "erikdoe/ocmock" == 3.7.1
+
+github "Quick/Quick"   == 3.0.0
 
 ##====Swift =====##
 
-github "realm/realm-cocoa" ~> 10.5.0
+#11 Require exactly version
+github "Alamofire/Alamofire" == 5.4.1
+
+#12 Require exactly version
+github "Moya/Moya" "14.0.0"
+
+#13 Require exactly version
+github "RxSwiftCommunity/RxKeyboard" == 1.0.0
+
+#14 Require exactly version
+github "ReactiveX/RxSwift" == 5.1.1
+
+#15 Require exactly version
+github "3a4oT/Reachability.swift" "static-5.0.0"
+
+#16 Require exactly version
+github "realm/realm-cocoa" == 10.5.1
+
+#17
+github "ReactiveCocoa/ReactiveSwift" == 6.3.0
+
+github "3a4oT/Eureka" "static-5.3.0"
+
+github "kishikawakatsumi/KeychainAccess" == 4.2.1
