@@ -10,15 +10,11 @@ jobs:
     name: Upload Release Asset
     runs-on: macos-latest
     env:
-      DEVELOPER_DIR: /Applications/Xcode_12.3.app/Contents/Developer
+      DEVELOPER_DIR: /Applications/Xcode_12.4.app/Contents/Developer
       GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-
-
-      - name: Update Carthage
-        run: brew update && brew upgrade carthage
 
       - name: Build artifacts
         run: ./build.sh

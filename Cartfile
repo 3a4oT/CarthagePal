@@ -2,28 +2,25 @@
 ##====Objective-C =====#
 
 #1 Require exactly version
-github "3a4oT/AFNetworking" "static-4.0.1"
+github "AFNetworking/AFNetworking" == 4.0.1
 
 #2 Require exactly version
-github "3a4oT/Mantle" "static-2-1-2"
+github "Mantle/Mantle" == 2.1.6
 
 #3 Require exactly version
-github "3a4oT/Texture" "ASIGListKit-Master-releases/p8.22"
-
-# IGListKit
-github "Instagram/IGListKit" "c321831b8025099967607cab3ffce42ac0e4283b"
+github "3a4oT/Texture" "15-03-21-spm"
 
 #4 Require exactly version
-github "3a4oT/ReactiveObjC" "static-3.1.1"
+github "3a4oT/ReactiveObjC" == 3.2.0
 
 #5 Require exactly version
-github "core-plot/core-plot" "release-2.3"
+github "core-plot/core-plot" "release-2.4"
 
 #6 Require exactly version
-github "skywinder/ActionSheetPicker-3.0" == 2.6.0
+github "skywinder/ActionSheetPicker-3.0" == 2.7.1
 
 #7
-github "xmartlabs/XLForm"  == 4.1.0
+github "xmartlabs/XLForm"  == 4.2.0
 
 #8
 ## Firebase 
@@ -32,20 +29,18 @@ binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseAnalyticsBinary.j
 binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseCrashlyticsBinary.json"
 
 #9
-github "3a4oT/TLIndexPathTools" == 0.4.6
+github "3a4oT/TLIndexPathTools" == 0.4.7
 
 #10
-github "3a4oT/DateToolsObjC" == 1.0.6
+github "3a4oT/DateToolsObjC" == 1.0.7
 
 ##===Testing======##
 
 github "specta/expecta" == 1.0.6
 
-github "hamcrest/OCHamcrest" == 7.1.2
+github "hamcrest/OCHamcrest" == 8.0.0
 
-github "erikdoe/ocmock" == 3.7.1
-
-github "Quick/Quick"   == 3.0.0
+github "erikdoe/ocmock" == 3.8.1
 
 ##====Swift =====##
 
@@ -53,23 +48,21 @@ github "Quick/Quick"   == 3.0.0
 github "Alamofire/Alamofire" == 5.4.1
 
 #12 Require exactly version
-github "Moya/Moya" "14.0.0"
+github "Moya/Moya" "14.0.1"
 
-#13 Require exactly version
-github "RxSwiftCommunity/RxKeyboard" == 1.0.0
+#13
+github ashleymills/Reachability.swift == 5.1.0
 
 #14 Require exactly version
-github "ReactiveX/RxSwift" == 5.1.1
+github "ReactiveX/RxSwift" == 5.1.2
 
-#15 Require exactly version
-github "3a4oT/Reachability.swift" "static-5.0.0"
+#15
+github "xmartlabs/Eureka" == 5.3.3
 
 #16 Require exactly version
-github "realm/realm-cocoa" == 10.5.1
+#github "realm/realm-cocoa" == 10.7.2
 
 #17
-github "ReactiveCocoa/ReactiveSwift" == 6.3.0
+github "ReactiveCocoa/ReactiveSwift" == 6.6.0
 
-github "3a4oT/Eureka" "static-5.3.0"
-
-github "kishikawakatsumi/KeychainAccess" == 4.2.1
+github "kishikawakatsumi/KeychainAccess" == 4.2.2
