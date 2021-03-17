@@ -8,30 +8,27 @@ github "AFNetworking/AFNetworking" == 4.0.1
 github "Mantle/Mantle" == 2.1.6
 
 #3 Require exactly version
-github "3a4oT/Texture" "15-03-21-spm"
-
-#4 Require exactly version
 github "3a4oT/ReactiveObjC" == 3.2.0
 
-#5 Require exactly version
+#4 Require exactly version
 github "core-plot/core-plot" "release-2.4"
 
-#6 Require exactly version
+#5 Require exactly version
 github "skywinder/ActionSheetPicker-3.0" == 2.7.1
 
-#7
+#6
 github "xmartlabs/XLForm"  == 4.2.0
 
-#8
+#7
 ## Firebase 
 
 binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseAnalyticsBinary.json"
 binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseCrashlyticsBinary.json"
 
-#9
+#8
 github "3a4oT/TLIndexPathTools" == 0.4.7
 
-#10
+#9
 github "3a4oT/DateToolsObjC" == 1.0.7
 
 ##===Testing======##
@@ -44,25 +41,14 @@ github "erikdoe/ocmock" == 3.8.1
 
 ##====Swift =====##
 
-#11 Require exactly version
-github "Alamofire/Alamofire" == 5.4.1
+#10
+github "ashleymills/Reachability.swift" == 5.1.0
 
-#12 Require exactly version
-github "Moya/Moya" "14.0.1"
-
-#13
-github ashleymills/Reachability.swift == 5.1.0
-
-#14 Require exactly version
-github "ReactiveX/RxSwift" == 5.1.2
-
-#15
+#11
 github "xmartlabs/Eureka" == 5.3.3
 
-#16 Require exactly version
-#github "realm/realm-cocoa" == 10.7.2
+#12 Require exactly version
+github "realm/realm-cocoa" == 10.7.2
 
-#17
-github "ReactiveCocoa/ReactiveSwift" == 6.6.0
-
+#13 Require exactly version
 github "kishikawakatsumi/KeychainAccess" == 4.2.2
