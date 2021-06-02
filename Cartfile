@@ -28,12 +28,7 @@ binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseCrashlyticsBinary
 #8
 github "3a4oT/TLIndexPathTools" == 0.4.7
 
-#9
-github "3a4oT/DateToolsObjC" == 1.0.7
-
 ##===Testing======##
-
-github "specta/expecta" == 1.0.6
 
 github "hamcrest/OCHamcrest" == 8.0.0
 
@@ -41,14 +36,8 @@ github "erikdoe/ocmock" == 3.8.1
 
 ##====Swift =====##
 
-#10
-github "ashleymills/Reachability.swift" == 5.1.0
-
-#11
+#9
 github "xmartlabs/Eureka" == 5.3.3
 
-#12 Require exactly version
-github "realm/realm-cocoa" == 10.7.2
-
-#13 Require exactly version
-github "kishikawakatsumi/KeychainAccess" == 4.2.2
+#10 Require exactly version
+github "realm/realm-cocoa" == 10.7.6
