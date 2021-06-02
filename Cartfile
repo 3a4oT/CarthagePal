@@ -5,7 +5,7 @@
 github "AFNetworking/AFNetworking" == 4.0.1
 
 #2 Require exactly version
-github "Mantle/Mantle" == 2.1.6
+github "Mantle/Mantle" == 2.1.7
 
 #3 Require exactly version
 github "3a4oT/ReactiveObjC" == 3.2.0
@@ -26,7 +26,7 @@ binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseAnalyticsBinary.j
 binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseCrashlyticsBinary.json"
 
 #8
-github "3a4oT/TLIndexPathTools" == 0.4.7
+github "3a4oT/TLIndexPathTools" == 0.4.8
 
 ##===Testing======##
 
