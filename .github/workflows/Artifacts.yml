@@ -8,7 +8,7 @@ name: Upload Release Asset
 jobs:
   build:
     name: Upload Release Asset
-    runs-on: macos-latest
+    runs-on: macos-11
     env:
       DEVELOPER_DIR: /Applications/Xcode_12.5.app/Contents/Developer
       GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
