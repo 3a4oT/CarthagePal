@@ -17,7 +17,7 @@ github "core-plot/core-plot" "release-2.4"
 github "skywinder/ActionSheetPicker-3.0" == 2.7.1
 
 #6
-github "xmartlabs/XLForm"  == 4.2.0
+github "xmartlabs/XLForm"  == 4.3.0
 
 #7
 github "3a4oT/TLIndexPathTools" == 0.4.8
@@ -31,7 +31,8 @@ github "erikdoe/ocmock" == 3.8.1
 ##====Swift =====##
 
 #8
-github "xmartlabs/Eureka" == 5.3.3
+github "xmartlabs/Eureka" == 5.3.4
 
 #9 Require exactly version
-github "realm/realm-cocoa" == 10.7.6
+github "realm/realm-cocoa" == 10.19.0
+
