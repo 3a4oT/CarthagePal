@@ -24,9 +24,9 @@ github "3a4oT/TLIndexPathTools" == 0.4.8
 
 ##===Testing======##
 
-github "hamcrest/OCHamcrest" == 8.0.0
+github "hamcrest/OCHamcrest" == 9.0.0
 
-github "erikdoe/ocmock" == 3.8.1
+github "erikdoe/ocmock" == 3.9.1
 
 ##====Swift =====##
 
@@ -34,5 +34,5 @@ github "erikdoe/ocmock" == 3.8.1
 github "xmartlabs/Eureka" == 5.3.4
 
 #9 Require exactly version
-github "realm/realm-cocoa" == 10.19.0
+github "realm/realm-cocoa" == 10.20.0
 
