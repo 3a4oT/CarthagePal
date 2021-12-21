@@ -34,5 +34,5 @@ github "erikdoe/ocmock" == 3.9.1
 github "xmartlabs/Eureka" == 5.3.4
 
 #9 Require exactly version
-github "realm/realm-cocoa" == 10.20.1
+github "realm/realm-cocoa" == 10.20.2
 
